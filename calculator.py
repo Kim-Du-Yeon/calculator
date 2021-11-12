@@ -12,3 +12,7 @@ def minus(a, b):
 def divide(a, b):
     num=a/b
     return num
+
+def multiply(a, b):
+    num=a*b
+    return num
